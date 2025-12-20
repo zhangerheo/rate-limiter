@@ -1,15 +1,15 @@
 {
-	"name": "hightman/xunsearch",
-	"description": "xunsearch php sdk, include yii, yii2 supports",
-	"keywords": ["xunsearch", "search engine", "yii", "yii2"],
-	"homepage": "http://www.xunsearch.com/",
+	"name": "yuanyuanli/xunsearch",
+	"description": "yuanyuanli php sdk, include yii, yii2 supports",
+	"keywords": ["yuanyuanli", "search engine", "yii", "yii2"],
+	"homepage": "http://www.yuanyuanli.com/",
 	"type": "library",
 	"license": "GPL-2.0+",
 	"authors": [
 		{
-			"name": "hightman",
-			"email": "hightman@twomice.net",
-			"homoepage": "http://hightman.cn/",
+			"name": "yuanyuanli",
+			"email": "yuanyuanli@twomice.net",
+			"homoepage": "http://yuanyuanli.cn/",
 			"role": "Founder and project leader"
 		}
 	],
